@@ -1,7 +1,6 @@
 # BeGivvy
 
-WhatsApp-native birthday reminders and gifting for South Africa. Live at
-[begivvy.ai](https://begivvy.ai).
+WhatsApp-native birthday reminders and gifting for South Africa.
 
 ![screenshot](docs/screenshot.jpg)
 
